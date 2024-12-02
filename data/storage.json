@@ -9,7 +9,12 @@
     "id": "1733110606404",
     "name": "safsaf"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "CID_104_Athena_Commando_F_Bunny",
+      "accountId": "1733110606404"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-02T03:36:47.332Z"
+  "lastUpdate": "2024-12-02T03:36:52.518Z"
 }
