@@ -1,21 +1,7 @@
 {
-  "accounts": [
-    {
-      "id": "1733111855441",
-      "name": "1234"
-    }
-  ],
-  "activeAccount": {
-    "id": "1733111855441",
-    "name": "1234"
-  },
+  "accounts": [],
+  "activeAccount": null,
   "favorites": [],
-  "notes": [
-    {
-      "id": "1733111868518",
-      "accountId": "1733111855441",
-      "text": "fsdgbdfsdgv"
-    }
-  ],
-  "lastUpdate": "2024-12-02T03:58:55.920Z"
+  "notes": [],
+  "lastUpdate": "2024-12-02T05:07:11.943Z"
 }
