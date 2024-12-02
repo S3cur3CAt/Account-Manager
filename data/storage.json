@@ -9,12 +9,7 @@
     "id": "1733111855441",
     "name": "1234"
   },
-  "favorites": [
-    {
-      "id": "BID_400_HalloweenAlt",
-      "accountId": "1733111855441"
-    }
-  ],
+  "favorites": [],
   "notes": [
     {
       "id": "1733111868518",
@@ -22,5 +17,5 @@
       "text": "fsdgbdfsdgv"
     }
   ],
-  "lastUpdate": "2024-12-02T03:58:55.036Z"
+  "lastUpdate": "2024-12-02T03:58:55.920Z"
 }
