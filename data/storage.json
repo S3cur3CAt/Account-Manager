@@ -9,7 +9,12 @@
     "id": "1733111855441",
     "name": "1234"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "SPID_392_GhoulPopsicles_Competitive",
+      "accountId": "1733111855441"
+    }
+  ],
   "notes": [
     {
       "id": "1733111868518",
@@ -17,5 +22,5 @@
       "text": "fsdgbdfsdgv"
     }
   ],
-  "lastUpdate": "2024-12-02T03:57:48.518Z"
+  "lastUpdate": "2024-12-02T03:58:04.656Z"
 }
