@@ -1,15 +1,7 @@
 {
-  "accounts": [
-    {
-      "id": "1733116202093",
-      "name": "dsad"
-    }
-  ],
-  "activeAccount": {
-    "id": "1733116202093",
-    "name": "dsad"
-  },
+  "accounts": [],
+  "activeAccount": null,
   "favorites": [],
   "notes": [],
-  "lastUpdate": "2024-12-02T05:10:02.093Z"
+  "lastUpdate": "2024-12-02T05:22:36.498Z"
 }
