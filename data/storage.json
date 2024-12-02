@@ -10,6 +10,12 @@
     "name": "1234"
   },
   "favorites": [],
-  "notes": [],
-  "lastUpdate": "2024-12-02T03:57:35.441Z"
+  "notes": [
+    {
+      "id": "1733111868518",
+      "accountId": "1733111855441",
+      "text": "fsdgbdfsdgv"
+    }
+  ],
+  "lastUpdate": "2024-12-02T03:57:48.518Z"
 }
