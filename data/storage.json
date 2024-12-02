@@ -1,32 +1,7 @@
 {
-  "accounts": [
-    {
-      "id": "1733110694444",
-      "name": "safasfasf"
-    }
-  ],
-  "activeAccount": {
-    "id": "1733110694444",
-    "name": "safasfasf"
-  },
-  "favorites": [
-    {
-      "id": "CID_104_Athena_Commando_F_Bunny",
-      "accountId": "1733110694444"
-    },
-    {
-      "id": "Character_BunnyBR",
-      "accountId": "1733110694444"
-    },
-    {
-      "id": "CID_255_Athena_Commando_F_HalloweenBunny",
-      "accountId": "1733110694444"
-    },
-    {
-      "id": "EID_Bunnyhop",
-      "accountId": "1733110694444"
-    }
-  ],
+  "accounts": [],
+  "activeAccount": null,
+  "favorites": [],
   "notes": [],
-  "lastUpdate": "2024-12-02T03:40:52.332Z"
+  "lastUpdate": "2024-12-02T03:54:44.894Z"
 }
