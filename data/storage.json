@@ -9,7 +9,12 @@
     "id": "1733110694444",
     "name": "safasfasf"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "EID_Bunnyhop",
+      "accountId": "1733110694444"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-02T03:38:15.576Z"
+  "lastUpdate": "2024-12-02T03:38:20.738Z"
 }
