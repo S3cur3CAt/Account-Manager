@@ -11,10 +11,6 @@
   },
   "favorites": [
     {
-      "id": "CID_104_Athena_Commando_F_Bunny",
-      "accountId": "1733268830198"
-    },
-    {
       "id": "Character_BunnyBR",
       "accountId": "1733268830198"
     },
@@ -137,8 +133,12 @@
     {
       "id": "Wrap_340_Yogurt",
       "accountId": "1733268830198"
+    },
+    {
+      "id": "Wrap_431_Logarithm_F8CWD",
+      "accountId": "1733268830198"
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-03T23:35:20.272Z"
+  "lastUpdate": "2024-12-03T23:36:51.436Z"
 }
