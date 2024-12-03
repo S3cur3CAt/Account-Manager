@@ -13,8 +13,16 @@
     {
       "id": "CID_104_Athena_Commando_F_Bunny",
       "accountId": "1733268830198"
+    },
+    {
+      "id": "Character_BunnyBR",
+      "accountId": "1733268830198"
+    },
+    {
+      "id": "CID_255_Athena_Commando_F_HalloweenBunny",
+      "accountId": "1733268830198"
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-03T23:34:09.386Z"
+  "lastUpdate": "2024-12-03T23:34:10.270Z"
 }
