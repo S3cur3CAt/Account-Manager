@@ -11,14 +11,6 @@
   },
   "favorites": [
     {
-      "id": "Character_BunnyBR",
-      "accountId": "1733268830198"
-    },
-    {
-      "id": "CID_255_Athena_Commando_F_HalloweenBunny",
-      "accountId": "1733268830198"
-    },
-    {
       "id": "Backpack_PrivateJet",
       "accountId": "1733268830198"
     },
@@ -140,5 +132,5 @@
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-03T23:36:51.436Z"
+  "lastUpdate": "2024-12-03T23:36:52.392Z"
 }
