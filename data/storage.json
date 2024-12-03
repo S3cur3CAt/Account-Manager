@@ -57,8 +57,16 @@
     {
       "id": "CID_A_070_Athena_Commando_M_Cavern_3I6I1",
       "accountId": "1733268830198"
+    },
+    {
+      "id": "CID_A_103_Athena_Commando_M_Grim_VM52M",
+      "accountId": "1733268830198"
+    },
+    {
+      "id": "CID_A_124_Athena_Commando_M_CavernArmored",
+      "accountId": "1733268830198"
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-03T23:35:04.092Z"
+  "lastUpdate": "2024-12-03T23:35:05.062Z"
 }
