@@ -225,8 +225,16 @@
     {
       "id": "LoadingScreen_HeadHunter",
       "accountId": "1733276161020"
+    },
+    {
+      "id": "LoadingScreen_HeadHunterStar_Remake",
+      "accountId": "1733276161020"
+    },
+    {
+      "id": "Pickaxe_RushRustle",
+      "accountId": "1733276161020"
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-04T02:02:42.739Z"
+  "lastUpdate": "2024-12-04T02:02:44.371Z"
 }
