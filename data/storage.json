@@ -9,7 +9,12 @@
     "id": "1733276161020",
     "name": "bn,bnm,"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "CID_104_Athena_Commando_F_Bunny",
+      "accountId": "1733276161020"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-04T01:36:02.097Z"
+  "lastUpdate": "2024-12-04T01:36:07.373Z"
 }
