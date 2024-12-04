@@ -45,8 +45,16 @@
     {
       "id": "Character_MercurialStorm",
       "accountId": "1733276161020"
+    },
+    {
+      "id": "Character_SnowSoldierFashion",
+      "accountId": "1733276161020"
+    },
+    {
+      "id": "CID_A_124_Athena_Commando_M_CavernArmored",
+      "accountId": "1733276161020"
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-04T02:02:05.121Z"
+  "lastUpdate": "2024-12-04T02:02:06.985Z"
 }
