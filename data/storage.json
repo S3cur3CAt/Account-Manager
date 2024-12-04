@@ -9,7 +9,12 @@
     "id": "1733280158003",
     "name": "fsadfasf"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "Shoes_LungeStreamClef",
+      "accountId": "1733280158003"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-04T02:42:39.425Z"
+  "lastUpdate": "2024-12-04T02:44:35.971Z"
 }
