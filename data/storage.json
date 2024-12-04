@@ -169,8 +169,20 @@
     {
       "id": "Character_HeadhunterStar",
       "accountId": "1733276161020"
+    },
+    {
+      "id": "Character_HeadhunterStarFNCS",
+      "accountId": "1733276161020"
+    },
+    {
+      "id": "Character_Impulse",
+      "accountId": "1733276161020"
+    },
+    {
+      "id": "Character_RebelClaw_Aviator",
+      "accountId": "1733276161020"
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-04T02:02:35.931Z"
+  "lastUpdate": "2024-12-04T02:02:36.957Z"
 }
