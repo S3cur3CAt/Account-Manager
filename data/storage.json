@@ -9,7 +9,12 @@
     "id": "1733282979137",
     "name": "saasf"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "Backpack_HeavyRoarCarton",
+      "accountId": "1733282979137"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-04T03:29:40.105Z"
+  "lastUpdate": "2024-12-04T03:29:42.605Z"
 }
