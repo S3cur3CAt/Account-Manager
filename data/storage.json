@@ -1,7 +1,15 @@
 {
-  "accounts": [],
-  "activeAccount": null,
+  "accounts": [
+    {
+      "id": "1733275985150",
+      "name": "asfasfas"
+    }
+  ],
+  "activeAccount": {
+    "id": "1733275985150",
+    "name": "asfasfas"
+  },
   "favorites": [],
   "notes": [],
-  "lastUpdate": "2024-12-04T01:33:00.860Z"
+  "lastUpdate": "2024-12-04T01:33:05.150Z"
 }
