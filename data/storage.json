@@ -9,7 +9,12 @@
     "id": "1733277993915",
     "name": "sdfsd"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "CID_255_Athena_Commando_F_HalloweenBunny",
+      "accountId": "1733277993915"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-04T02:06:35.475Z"
+  "lastUpdate": "2024-12-04T02:07:04.647Z"
 }
