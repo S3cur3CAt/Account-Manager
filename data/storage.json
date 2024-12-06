@@ -1,20 +1,7 @@
 {
-  "accounts": [
-    {
-      "id": "1733475762032",
-      "name": "safasf"
-    }
-  ],
-  "activeAccount": {
-    "id": "1733475762032",
-    "name": "safasf"
-  },
-  "favorites": [
-    {
-      "id": "Backpack_LivelyDomino",
-      "accountId": "1733475762032"
-    }
-  ],
+  "accounts": [],
+  "activeAccount": null,
+  "favorites": [],
   "notes": [],
-  "lastUpdate": "2024-12-06T09:03:48.868Z"
+  "lastUpdate": "2024-12-06T15:23:33.454Z"
 }
