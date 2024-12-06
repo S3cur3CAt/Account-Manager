@@ -9,7 +9,12 @@
     "id": "1733475762032",
     "name": "safasf"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "Backpack_LivelyDomino",
+      "accountId": "1733475762032"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-06T09:02:42.914Z"
+  "lastUpdate": "2024-12-06T09:03:48.868Z"
 }
