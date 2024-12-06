@@ -9,7 +9,12 @@
     "id": "1733499147836",
     "name": "safasf"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "CID_579_Athena_Commando_F_RedRidingRemix",
+      "accountId": "1733499147836"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-06T15:32:27.836Z"
+  "lastUpdate": "2024-12-06T15:49:56.758Z"
 }
