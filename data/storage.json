@@ -17,11 +17,8 @@
       "name": "nmbm"
     }
   ],
-  "activeAccount": {
-    "id": "1733636090128",
-    "name": "nmbm"
-  },
+  "activeAccount": null,
   "favorites": [],
   "notes": [],
-  "lastUpdate": "2024-12-08T05:34:54.602Z"
+  "lastUpdate": "2024-12-08T05:34:56.090Z"
 }
