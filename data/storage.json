@@ -1,32 +1,16 @@
 {
   "accounts": [
     {
-      "id": "1733499147836",
-      "name": "safasf"
-    },
-    {
-      "id": "1733499147836",
-      "name": "safasf"
-    },
-    {
       "id": "1733636090128",
       "name": "nmbm"
     },
     {
       "id": "1733636090128",
       "name": "nmbm"
-    },
-    {
-      "id": "1733499147836",
-      "name": "safasf"
-    },
-    {
-      "id": "1733499147836",
-      "name": "safasf"
     }
   ],
   "activeAccount": null,
   "favorites": [],
   "notes": [],
-  "lastUpdate": "2024-12-08T05:36:20.153Z"
+  "lastUpdate": "2024-12-08T14:44:54.289Z"
 }
