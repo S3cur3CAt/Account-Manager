@@ -11,13 +11,22 @@
     {
       "id": "1733669178858",
       "name": "hghgk"
+    },
+    {
+      "id": "1733669178858",
+      "name": "hghgk"
     }
   ],
   "activeAccount": {
     "id": "1733669178858",
     "name": "hghgk"
   },
-  "favorites": [],
+  "favorites": [
+    {
+      "id": "CID_141_Athena_Commando_M_DarkEagle",
+      "accountId": "1733669178858"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-08T14:46:19.103Z"
+  "lastUpdate": "2024-12-08T14:46:29.412Z"
 }
