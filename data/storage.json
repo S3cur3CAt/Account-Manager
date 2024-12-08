@@ -7,10 +7,17 @@
     {
       "id": "1733636090128",
       "name": "nmbm"
+    },
+    {
+      "id": "1733669178858",
+      "name": "hghgk"
     }
   ],
-  "activeAccount": null,
+  "activeAccount": {
+    "id": "1733669178858",
+    "name": "hghgk"
+  },
   "favorites": [],
   "notes": [],
-  "lastUpdate": "2024-12-08T14:46:15.707Z"
+  "lastUpdate": "2024-12-08T14:46:19.103Z"
 }
