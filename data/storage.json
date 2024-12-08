@@ -1,7 +1,36 @@
 {
-  "accounts": [],
-  "activeAccount": null,
-  "favorites": [],
+  "accounts": [
+    {
+      "id": "1733669178858",
+      "name": "hghgk"
+    },
+    {
+      "id": "1733669178858",
+      "name": "hghgk"
+    },
+    {
+      "id": "1733669178858",
+      "name": "hghgk"
+    }
+  ],
+  "activeAccount": {
+    "id": "1733669178858",
+    "name": "hghgk"
+  },
+  "favorites": [
+    {
+      "id": "CID_141_Athena_Commando_M_DarkEagle",
+      "accountId": "1733669178858"
+    },
+    {
+      "id": "CID_141_Athena_Commando_M_DarkEagle",
+      "accountId": "1733669178858"
+    },
+    {
+      "id": "CID_143_Athena_Commando_F_DarkNinja",
+      "accountId": "1733669178858"
+    }
+  ],
   "notes": [],
-  "lastUpdate": "2024-12-08T14:47:26.523Z"
+  "lastUpdate": "2024-12-08T14:47:27.827Z"
 }
