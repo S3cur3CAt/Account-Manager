@@ -11,14 +11,6 @@
   },
   "favorites": [
     {
-      "id": "Pickaxe_ID_429_CelestialFemale1H",
-      "accountId": "1733797170334"
-    },
-    {
-      "id": "Pickaxe_LemonCartGranite",
-      "accountId": "1733797170334"
-    },
-    {
       "id": "CID_A_430_Athena_Commando_M_SpectacleWeb",
       "accountId": "1733797170334"
     },
@@ -28,5 +20,5 @@
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-20T16:01:13.142Z"
+  "lastUpdate": "2024-12-20T16:01:14.090Z"
 }
