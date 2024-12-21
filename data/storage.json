@@ -11,10 +11,6 @@
   },
   "favorites": [
     {
-      "id": "Pickaxe_ID_066_FlintlockRed",
-      "accountId": "1733797170334"
-    },
-    {
       "id": "Pickaxe_FeatherMudGlance",
       "accountId": "1733797170334"
     },
@@ -24,5 +20,5 @@
     }
   ],
   "notes": [],
-  "lastUpdate": "2024-12-21T11:10:32.789Z"
+  "lastUpdate": "2024-12-21T11:10:34.365Z"
 }
